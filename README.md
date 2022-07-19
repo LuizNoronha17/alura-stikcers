@@ -1,9 +1,9 @@
 # Imersão Alura Java
-Esse projeto consiste em fazer stickers com base dos 250 filmes mais bem avaliados do IMDB com o poster, nota e titulo.
+Esse projeto consiste em fazer stickers com base dos 250 filmes mais bem avaliados do IMDB com o pôster, nota e título.
 ## Dia 1
-Foi usada a api "https://alura-imdb-api.herokuapp.com/movies" por causa de problemas com a do IMDB.
-Os instrutores mostraram como se fazia um programa que mostrava poster, nota e titulo sem nenhum tipo de interface. E nos desafiaram a melhorar-lo.  
-## 
+Foi usada a API "https://alura-imdb-api.herokuapp.com/movies" devido a problemas com a do IMDB.
+Os instrutores mostraram como se fazia um programa que mostrava pôster, nota e título sem nenhum tipo de interface. E nos desafiaram a melhorá-lo.
+##
 Depois das melhorias o output do programa ficou assim:
-![java](https://user-images.githubusercontent.com/109561897/179841863-744743d3-0364-4026-b79e-4b3b640dceaf.PNG)
+![java](https://user-images.githubusercontent.com/109561897/179842351-e04646b9-696f-4a0f-b137-620f059a55b0.PNG)
 ## Dia 2
